@@ -723,7 +723,7 @@
 
   (footprint "Alpenglow:Alpenglow_Logo_Horiz_15x6.2" (layer "F.Cu")
     (tedit 0) (tstamp 1e425960-e1f5-43f2-bcee-373d84985789)
-    (at 123.607772 66.989713)
+    (at 122.047 64.77)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
       (effects (font (size 0.889 0.889) (thickness 0.3)))
@@ -2010,7 +2010,7 @@
 
   (footprint "Alpenglow_SMT_Soldering_PCB:SMTGardenDancing15mm" (layer "F.Cu")
     (tedit 0) (tstamp 20e29bbe-c481-41b5-b6b4-19e1f32cf566)
-    (at 123.344432 60.91903)
+    (at 157.360131 110.054229)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0.000009 0.000004) (layer "F.SilkS") hide
       (effects (font (size 0.889 0.889) (thickness 0.3)))
@@ -7076,13 +7076,13 @@
 
   (footprint "Alpenglow:@AlpenglowIndOswald20mm" (layer "F.Cu")
     (tedit 0) (tstamp 57ae5647-0796-4ac6-bcfb-5c6815dbd65b)
-    (at 126.491585 73.874392)
+    (at 184.237392 102.870415 90)
     (attr board_only exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
+    (fp_text reference "G***" (at 0 0 90) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
       (tstamp 4dd8f326-fb04-426b-9d1a-f277e910844f)
     )
-    (fp_text value "LOGO" (at 0.75 0) (layer "F.SilkS") hide
+    (fp_text value "LOGO" (at 0.75 0 90) (layer "F.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
       (tstamp e5119d4c-3e7b-4dc5-baea-069359d74799)
     )
@@ -10336,7 +10336,7 @@
 
   (footprint "Alpenglow_SMT_Soldering_PCB:LearnToSolderDancing20mm" (layer "F.Cu")
     (tedit 0) (tstamp 8f6df438-f4f0-4cd3-be52-a4156383e771)
-    (at 124.693708 59.041203)
+    (at 156.824708 108.190203)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at -0.000003 0.000005) (layer "F.SilkS") hide
       (effects (font (size 0.889 0.889) (thickness 0.3)))
@@ -23108,7 +23108,7 @@
   (dimension (type aligned) (layer "F.Fab") (tstamp d2533498-9a26-40d0-acc4-bbbd0bde0fac)
     (pts (xy 203.2 45.72) (xy 203.2 109.22))
     (height -5.08)
-    (gr_text "2500.0000 mils" (at 207.13 77.47 90) (layer "F.Fab") (tstamp d2533498-9a26-40d0-acc4-bbbd0bde0fac)
+    (gr_text "2.5000 in" (at 207.13 77.47 90) (layer "F.Fab") (tstamp d2533498-9a26-40d0-acc4-bbbd0bde0fac)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 4))
@@ -23117,7 +23117,7 @@
   (dimension (type aligned) (layer "F.Fab") (tstamp d591abe6-b822-4712-bb53-42eb721f26a3)
     (pts (xy 114.3 45.72) (xy 203.2 45.72))
     (height -5.08)
-    (gr_text "3500.0000 mils" (at 158.75 39.49) (layer "F.Fab") (tstamp d591abe6-b822-4712-bb53-42eb721f26a3)
+    (gr_text "3.5000 in" (at 158.75 39.49) (layer "F.Fab") (tstamp d591abe6-b822-4712-bb53-42eb721f26a3)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 4))
