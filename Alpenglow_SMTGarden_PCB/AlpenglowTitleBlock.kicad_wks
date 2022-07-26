@@ -32,7 +32,7 @@
   (rect (name "rect4:Rect") (start 110.4 1.9) (end 110.4 1.9))
   (line (name "segm11:Line") (start 118.4 33.9) (end 118.4 33.9))
   (tbtext "@alpenglowind\n@alpenglowind\nAlpenglow Industries\nAlpenglow Industries" (name "text16:Text") (pos 154.9 18.4) (font (size 2 2)) (justify top))
-  (bitmap (name "") (pos 107.475 17.1272) (scale 0.5454545455)
+  (bitmap (name "") (pos 107.475 16.8732) (scale 0.5357142857)
   (pngdata
     (data "89 50 4E 47 0D 0A 1A 0A 00 00 00 0D 49 48 44 52 00 00 02 58 00 00 02 82 08 06 00 00 00 0D C3 A7 ")
     (data "95 00 00 00 04 73 42 49 54 08 08 08 08 7C 08 64 88 00 00 20 00 49 44 41 54 78 9C EC DD 77 7C 1B ")
@@ -1604,4 +1604,5 @@
     (data "84 10 42 08 21 84 10 42 48 61 FC 0F C1 A0 C2 95 16 32 7A 0F 00 00 00 00 49 45 4E 44 AE 42 60 82 ")
     )
   )
+  (tbtext " ${COMMENT1}" (name "text12:Text") (pos 48.3 16.492) (font (linewidth 0.5) (size 2.5 3)) (justify center))
 )

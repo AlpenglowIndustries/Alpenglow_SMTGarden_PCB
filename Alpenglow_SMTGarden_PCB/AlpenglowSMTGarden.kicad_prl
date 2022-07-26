@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 37,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_nets": [],
@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "ffc3fe3_7fffffff",
+    "visible_layers": "ffc3fe3_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "SMTSolderIntro.kicad_prl",
+    "filename": "AlpenglowSMTGarden.kicad_prl",
     "version": 3
   },
   "project": {
