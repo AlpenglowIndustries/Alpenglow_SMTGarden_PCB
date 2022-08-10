@@ -55,7 +55,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "copper_edge_clearance|114300000|105410000|a7685302-96b9-4b81-9cc7-36c3efc1ca50|5be0f77c-182b-429a-a90c-49d32f8db8f7",
+        "copper_edge_clearance|114300000|49530000|a7685302-96b9-4b81-9cc7-36c3efc1ca50|744f0f9c-0487-4608-afa8-28b9b3fd940c",
+        "copper_edge_clearance|199390000|45720000|a7685302-96b9-4b81-9cc7-36c3efc1ca50|7fd28c64-6b4b-497b-b93f-d4e130d224ca",
+        "copper_edge_clearance|203200000|105410000|a7685302-96b9-4b81-9cc7-36c3efc1ca50|e63370cf-c8e4-4b02-93b2-42e5188e24ae"
+      ],
       "meta": {
         "version": 2
       },
@@ -380,7 +385,7 @@
         "name": "PWR",
         "nets": [
           "+5V",
-          "+Vbarrel",
+          "+Vbatt",
           "+Vin_1",
           "+Vin_2",
           "+Vusb"
